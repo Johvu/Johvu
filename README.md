@@ -1,16 +1,26 @@
-LOL
+# Terve olen Johvu
 
-<!--
-**Johvu/Johvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-@johvu-%23181717?style=flat-square&logo=github)](https://github.com/johvu)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Terve olen 16 vuotias Ohjelmistokehittäjä linjan opiskelia Lohjalta.
+
+
+## Osaamiseni
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=000000)
+
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Cpanel](https://img.shields.io/badge/cpanel-%23007ACC?style=flat-square&logo==cpanel&logoColor=white)
+![Blender](https://img.shields.io/badge/-blender-%23007ACC?style=flat-square&logo=blender)
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=johvu&show_icons=true&theme=dracula)
