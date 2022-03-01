@@ -21,6 +21,6 @@ Terve olen 16 vuotias Ohjelmistokehittäjä linjan opiskelia Lohjalta.
 ![Blender](https://img.shields.io/badge/-blender-%23007ACC?style=flat-square&logo=blender)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## tilastot
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=johvu&show_icons=true&theme=dracula)
+![Johvu's github stats](https://github-readme-stats.vercel.app/api?username=johvu&show_icons=true&theme=dracula)
