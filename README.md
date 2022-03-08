@@ -23,4 +23,5 @@ Terve olen 16 vuotias Ohjelmistokehittäjä linjan opiskelia Lohjalta.
 
 ## tilastot
 
-![Johvu's github stats](https://github-readme-stats.vercel.app/api?username=johvu&show_icons=true&theme=dracula)
+[![....](https://github-readme-stats.vercel.app/api/top-langs/?username=johvu)](https://github.com/Johvu/pvalo)
+
