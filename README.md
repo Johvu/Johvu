@@ -2,8 +2,8 @@
 
 [![](https://img.shields.io/badge/-@johvu-%23181717?style=flat-square&logo=github)](https://github.com/johvu)
 
-
-Terve olen 16 vuotias Ohjelmistokehittäjä linjan opiskelia Lohjalta.
+.
+Hi i am 16 years old Software devloper line student from Finland 
 
 
 ## Osaamiseni
