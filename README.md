@@ -13,7 +13,7 @@ Hi i am 16 years old Software devloper line student from Finland
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=000000)
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP&logoColor=000000)
-
+![PYTHON](https://img.shields.io/badge/-PYTHON-fff?&logo=PYTHON&logoColor=000000)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
