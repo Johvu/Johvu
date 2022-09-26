@@ -5,6 +5,7 @@
 .
 Hi i am 16 years old Software devloper line student from Finland 
 
+Linkedin: https://www.linkedin.com/in/johann-koivunen-53a06b1a8/
 
 ## Osaamiseni
 
