@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@johvu-%23181717?style=flat-square&logo=github)](https://github.com/johvu)
 
 
-Hi i am 17 years old Software developer from Finland 
+Hi i am 18 years old Software developer from Finland 
 
 Linkedin: https://www.linkedin.com/in/johann-koivunen-53a06b1a8/
 
