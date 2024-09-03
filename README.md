@@ -3,11 +3,11 @@
 [![](https://img.shields.io/badge/-@johvu-%23181717?style=flat-square&logo=github)](https://github.com/johvu)
 
 
-Hi i am 18 years old Software developer from Finland 
+Hi, I'm a 19-year-old software developer from Finland
 
 Linkedin: https://www.linkedin.com/in/johann-koivunen-53a06b1a8/
 
-## coding languages
+## Buzzwords
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
