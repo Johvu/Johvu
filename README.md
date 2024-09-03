@@ -15,16 +15,12 @@ Linkedin: https://www.linkedin.com/in/johann-koivunen-53a06b1a8/
 ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=000000)
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP&logoColor=000000)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-fff?&logo=PYTHON&logoColor=000000)
-
-  ## frameworks
-  ![DJANGO](https://img.shields.io/badge/-DJANGO-fff?&logo=DJANGO&logoColor=000000)
-
-  ## other
-  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-  ![Cpanel](https://img.shields.io/badge/cpanel-%23007ACC?style=flat-square&logo==cpanel&logoColor=white)
-  ![Blender](https://img.shields.io/badge/-blender-%23007ACC?style=flat-square&logo=blender)
+![DJANGO](https://img.shields.io/badge/-DJANGO-fff?&logo=DJANGO&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Cpanel](https://img.shields.io/badge/cpanel-%23007ACC?style=flat-square&logo==cpanel&logoColor=white)
+![Blender](https://img.shields.io/badge/-blender-%23007ACC?style=flat-square&logo=blender)
 
 
 ## some statistics
