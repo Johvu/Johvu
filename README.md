@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZngwanI5aWJoZXU2ajQ1Ym52MThibTU4ZHZtZDEzY213ZXRlandyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4Bi420mMDRBK/giphy.gif" width="100%"/>
   <h2>Johann Koivunen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <p>Full Stack Developer</p>
 </div>
@@ -10,9 +10,9 @@
   <h3>Skills</h3>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="java"/>
+  <img src="https://img.icons8.com/?size=100&id=ETDhNONw82Nc&format=png&color=000000" width="48" alt="java"/>
   <img src="https://img.icons8.com/color/48/000000/go.png" alt="golang"/>
-  <img src="https://img.icons8.com/color/48/000000/lua.png" alt="lua"/>
+  <img src="https://img.icons8.com/?size=100&id=Z61jn6Q8DsGq&format=png&color=000000"  width="48" alt="lua"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
