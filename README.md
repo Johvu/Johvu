@@ -25,7 +25,6 @@
   <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/blueprint.png" alt="System Design"/>
-  <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48" alt="Cloudinary"/>
 </div>
 
 ---
