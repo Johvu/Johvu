@@ -40,9 +40,9 @@
 
 <div style="text-align: center;">
   <h3>Profile Stats</h3>
-  <img src="https://komarev.com/ghpvc/?username=nishant0708&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/nishant0708?style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/nishant0708?style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=johvu&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/johvu?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/johvu?style=social" alt="GitHub Stars"/>
 </div>
 
 ---
@@ -59,9 +59,6 @@
 
 <div style="text-align: center;">
   <h3>Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/nishant-kaushal-12b25a267/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/nishant0708"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-  <a href="https://x.com/Nishant61302189"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/nishant0760/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="mailto:nishantkaushal0708@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/johann-koivunen-53a06b1a8/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/johvu"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
 </div>
