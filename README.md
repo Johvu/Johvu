@@ -1,30 +1,67 @@
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
+  <h2>Johann Koivunen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+  <p>Full Stack Developer</p>
+</div>
+
+---
+
+<div style="text-align: center;">
+  <h3>Skills</h3>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/java.png" alt="java"/>
+  <img src="https://img.icons8.com/color/48/000000/go.png" alt="golang"/>
+  <img src="https://img.icons8.com/color/48/000000/lua.png" alt="lua"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST API"/>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Framer"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/blueprint.png" alt="System Design"/>
+  <img src="https://banner2.cleanpng.com/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" width="48" alt="Cloudinary"/>
+</div>
+
+---
+
+<div style="text-align: center;">
+  <h3>My GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=johvu&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johvu&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</div>
+
+---
+
+<div style="text-align: center;">
+  <h3>Profile Stats</h3>
+  <img src="https://komarev.com/ghpvc/?username=nishant0708&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/nishant0708?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/nishant0708?style=social" alt="GitHub Stars"/>
+</div>
+
+---
+
+<div style="text-align: center;">
+  <h3>About Me</h3>
+  <p>👨‍💻 19 Years old developer from Turku</p>
+</div>
+
+---
 
 
-[![](https://img.shields.io/badge/-@johvu-%23181717?style=flat-square&logo=github)](https://github.com/johvu)
+---
 
-
-Hi, I'm a 19-year-old software developer from Finland
-
-Linkedin: https://www.linkedin.com/in/johann-koivunen-53a06b1a8/
-
-## Buzzwords
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP&logoColor=000000)
-![PYTHON](https://img.shields.io/badge/-PYTHON-fff?&logo=PYTHON&logoColor=000000)
-![DJANGO](https://img.shields.io/badge/-DJANGO-fff?&logo=DJANGO&logoColor=000000)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Cpanel](https://img.shields.io/badge/cpanel-%23007ACC?style=flat-square&logo==cpanel&logoColor=white)
-![Blender](https://img.shields.io/badge/-blender-%23007ACC?style=flat-square&logo=blender)
-
-
-## some statistics
-![Johvu's github stats](https://github-readme-stats.vercel.app/api?username=johvu&show_icons=true&theme=dracula)
-
-[![....](https://github-readme-stats.vercel.app/api/top-langs/?username=johvu)](https://github.com/Johvu/pvalo)
-
+<div style="text-align: center;">
+  <h3>Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/nishant-kaushal-12b25a267/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/nishant0708"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://x.com/Nishant61302189"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/nishant0760/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:nishantkaushal0708@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+</div>
