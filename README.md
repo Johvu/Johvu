@@ -48,7 +48,6 @@
 
 <div style="text-align: center;">
   <h3>About Me</h3>
-  <p>👨‍💻 19 Years old developer from Turku</p>
 </div>
 
 ---
